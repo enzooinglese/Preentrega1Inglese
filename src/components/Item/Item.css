@@ -1,0 +1,6 @@
+.cajaproducto{
+    border: 5px groove rgb(0, 0, 0);
+    width: 250px;
+    margin: 15px;
+    border-radius: 5%;
+}
