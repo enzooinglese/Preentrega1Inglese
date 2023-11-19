@@ -15,16 +15,15 @@ const NavBar = () => {
             <ul>
                 <NavLink to='/category/Zapatilla-Hombre'>Zapatillas Hombre</NavLink>
             </ul>
-                <ul>
-                    <NavLink to='/category/Zapatilla-Mujer'>Zapatillas Mujer</NavLink>
-                </ul>
-                <ul>
-                    <NavLink to='/category/Zapatos-Hombre'>Zapatos Hombre</NavLink>
-                </ul>
-                <ul>
-                    <CartWidget />
-                </ul>
-            
+            <ul>
+                <NavLink to='/category/Zapatilla-Mujer'>Zapatillas Mujer</NavLink>
+            </ul>
+            <ul>
+                <NavLink to='/category/Zapatos-Hombre'>Zapatos Hombre</NavLink>
+            </ul>
+            <ul>
+                <CartWidget />
+            </ul>
         </li>
     </nav>
     )

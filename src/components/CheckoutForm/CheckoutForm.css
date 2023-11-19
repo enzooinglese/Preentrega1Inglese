@@ -1,0 +1,7 @@
+.contenedorForm{
+    text-align: -webkit-center;
+}
+form{
+    display: table-caption;
+    margin: 20px;
+}

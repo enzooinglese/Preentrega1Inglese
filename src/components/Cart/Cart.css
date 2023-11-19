@@ -1,0 +1,14 @@
+.contenedorCart{
+    display: inline-block;
+}
+h3{
+    margin: 5px
+}
+.totalPrice{
+    font-size: 30px;
+    margin: 20px;
+}
+.totalUnity{
+    font-size: 25px;
+    margin-top: 15px;
+}

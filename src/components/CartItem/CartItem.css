@@ -1,0 +1,10 @@
+.itemCart{
+    display: -webkit-box;
+    box-shadow: 6px 8px 20px 0 grey;
+    padding: 10px 100px;
+    margin-top: 10px;
+}
+h3{
+padding: 0 20px;
+margin: auto;
+}
