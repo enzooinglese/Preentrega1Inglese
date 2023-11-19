@@ -1,0 +1,9 @@
+.NavBar{
+    background-color: blanchedalmond;
+    font-family: 'Courier New', Courier, monospace;
+}
+.List{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
